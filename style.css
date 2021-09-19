@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+ background-image: linear-gradient( #0CEBEB, purple);
+    color: white;
+}
+.Heading{
+    width:80%;
+    font-size: 22px;
+}
+.Object_Name{
+    font-size: 20px;
+    font-weight: bold;
+}
+#Camera{
+    border: 20px;
+    border-style: dashed;
+    border-image: url(https://lh3.googleusercontent.com/proxy/Kd0DCeok3bfZ5T-HeNGf_02OZm4Gy32sRvulwsxLhpyGLmpAOhl9NCtLkfnry87zItQUoD2Yuf9AhvshSW_wAqY863_7fiQ) 30 round;
+    padding: 15px;
+    border-color: black;
+    width: 350px;
+    height: 300px;
+}
+.snapshot, .Identify{
+width: 30%;
+font-size: 20px;
+}
+#result_object_name, #Accuracy{
+    color: red;
+
+}
